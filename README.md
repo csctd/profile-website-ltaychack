@@ -42,3 +42,12 @@ Run `nox`
    ```
 
 this should install a Sphinx environment and build the site, putting the output files in `_build/html`. -->
+# Profile Website
+
+Welcome to my profile webiste, everyone!
+
+
+Since you're here, you might be: 
+- Interested in coding.
+- Interested in web design.
+- Wanting to learn more about me!
