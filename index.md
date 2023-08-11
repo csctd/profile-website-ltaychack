@@ -1,9 +1,9 @@
-# Page Title
+# Portfolio
 
-A short introduction for the top of your main page
+I'm a current first-year mathematics major at URI, graduating in 2027. 
 
 
-More content you want on your page
+
 
 
 
