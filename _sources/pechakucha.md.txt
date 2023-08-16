@@ -14,3 +14,15 @@
 
 [alt text](https://lh3.googleusercontent.com/i5Td6FMlubVFq5nBST9zOS0apQS0Preeyh4MJUGRWPcA-BFW5tG9IiMRSubIsm8)
 ```
+
+```{card} 
+:class-card: slide
+
+[alt text](https://lh3.googleusercontent.com/i5Td6FMlubVFq5nBST9zOS0apQS0Preeyh4MJUGRWPcA-BFW5tG9IiMRSubIsm8)
+```
+
+```{card} 
+:class-card: slide
+
+[alt text](https://www.iri.org/wp-content/uploads/2021/11/cyril-1-Copy.jpg?w=800)
+```
