@@ -1,16 +1,17 @@
-# Page Title
+# Introduction
 
-A short introduction for the top of your main page
+I am a current first year student at URI pursuing a BS in mathematics. I am considering a double major in physics. 
 
 
 More content you want on your page
 
 
 
-<!-- use this to make a menu when you add more pages -->
-<!-- ```{toctree}
+```{toctree}
 :maxdepth: 2
 :hidden:
 
+
 pechakucha
-``` -->
+```
+nox -s docs-live
