@@ -8,19 +8,19 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" /><meta name="generator" content="Docutils 0.19: https://docutils.sourceforge.io/" />
-<meta property="og:title" content="<no title>" />
+<meta property="og:title" content="PechaKucha" />
 <meta property="og:type" content="website" />
 <meta property="og:url" content="pechakucha/" />
 <meta property="og:site_name" content="Lana's Profile" />
 <meta property="og:description" content="alt text alt text" />
 <meta property="og:image:width" content="1146" />
 <meta property="og:image:height" content="600" />
-<meta property="og:image" content="/_images/social_previews/summary_pechakucha_3b06c2da.png" />
+<meta property="og:image" content="/_images/social_previews/summary_pechakucha_17df893e.png" />
 <meta property="og:image:alt" content="alt text alt text" />
 <meta name="description" content="alt text alt text" />
 <meta name="twitter:card" content="summary_large_image" />
 
-    <title>&lt;no title&gt; &#8212; Lana&#39;s Profile</title>
+    <title>PechaKucha &#8212; Lana&#39;s Profile</title>
   
   
   
@@ -147,7 +147,7 @@
     
                     <li class="nav-item current active">
                       <a class="nav-link nav-internal" href="#">
-                        <no title>
+                        PechaKucha
                       </a>
                     </li>
                 
@@ -258,7 +258,7 @@ document.write(`
     
                     <li class="nav-item current active">
                       <a class="nav-link nav-internal" href="#">
-                        <no title>
+                        PechaKucha
                       </a>
                     </li>
                 
@@ -346,7 +346,7 @@ document.write(`
         <i class="fa-solid fa-home"></i>
       </a>
     </li>
-    <li class="breadcrumb-item active" aria-current="page">&lt;no title&gt;</li>
+    <li class="breadcrumb-item active" aria-current="page">PechaKucha</li>
   </ul>
 </nav>
 </div>
@@ -363,8 +363,26 @@ document.write(`
 <div id="searchbox"></div>
                 <article class="bd-article" role="main">
                   
-<p><img alt="alt text" src="https://i.natgeofe.com/n/76197d9a-5c93-41c2-b95e-66d06ffa5928/laos-travel.jpg" />
-<img alt="alt text" src="https://lh3.googleusercontent.com/i5Td6FMlubVFq5nBST9zOS0apQS0Preeyh4MJUGRWPcA-BFW5tG9IiMRSubIsm8" /></p>
+<section class="tex2jax_ignore mathjax_ignore" id="pechakucha">
+<h1>PechaKucha<a class="headerlink" href="#pechakucha" title="Permalink to this heading">#</a></h1>
+<!-- a container for the buttons -->
+<div class="controls">
+<!-- the btn,  btn-dark, and btn-info classes come from Bootstrap-->
+<input class='btn btn-dark' id="pause" type="button" value="Pause" onclick="pauseSlideShow()" />
+<input class='btn btn-info' id="play" type="button" value="Present" onclick="playSlideShow()" />
+<!-- the fucntions called by buttons are defined in layout.html -->
+</div>
+<div class="sd-card sd-sphinx-override sd-mb-3 sd-shadow-sm slide docutils">
+<div class="sd-card-body docutils">
+<p class="sd-card-text"><img alt="alt text" src="https://i.natgeofe.com/n/76197d9a-5c93-41c2-b95e-66d06ffa5928/laos-travel.jpg" /></p>
+</div>
+</div>
+<div class="sd-card sd-sphinx-override sd-mb-3 sd-shadow-sm slide docutils">
+<div class="sd-card-body docutils">
+<p class="sd-card-text"><a class="reference external" href="https://lh3.googleusercontent.com/i5Td6FMlubVFq5nBST9zOS0apQS0Preeyh4MJUGRWPcA-BFW5tG9IiMRSubIsm8">alt text</a></p>
+</div>
+</div>
+</section>
 
 <div class="section ablog__blog_comments">
   
@@ -403,16 +421,6 @@ document.write(`
                 <div class="bd-sidebar-secondary bd-toc"><div class="sidebar-secondary-items sidebar-secondary__inner">
 
   <div class="sidebar-secondary-item">
-  <div class="page-toc tocsection onthispage">
-    <i class="fa-solid fa-list"></i> On this page
-  </div>
-  <nav class="bd-toc-nav page-toc">
-    <ul class="simple visible nav section-nav flex-column">
-</ul>
-
-  </nav></div>
-
-  <div class="sidebar-secondary-item">
   <div class="tocsection sourcelink">
     <a href="../_sources/pechakucha.md.txt">
       <i class="fa-solid fa-file-lines"></i> Show Source
@@ -436,38 +444,94 @@ document.write(`
   <script src="../_static/scripts/bootstrap.js?digest=e353d410970836974a52"></script>
 <script src="../_static/scripts/pydata-sphinx-theme.js?digest=e353d410970836974a52"></script>
 
+<!--  the stuff above here makes your pages work regularly -->
+<!--  the stuff below here puts javascript on all of the pages -->
 
 <script>
+    // this section is javascript, not HTML evn though it's in the HTML file
     let slideIndex = 0;
     let slides = document.getElementsByClassName("slide");
-    if (slides.length > 0 ){
-        showSlides();
-    }
+    let slideTime = 5000;
+    // var slideInterval = setInterval(showSlides, slideTime);
+    // clearInterval(slideInterval);
+
+    // if (slides.length > 0 ){
+    //     showSlides();
+    // }
 
     function showSlides() {
         let i;
         let slides = document.getElementsByClassName("slide");
-        console.log('in')
-        console.log(slides.length)
-        console.log(slideIndex)
+        // console.log('in')
+        // console.log(slides.length)
+        // console.log(slideIndex)
 
         let dots = document.getElementsByClassName("dot");
         for (i = 0; i < slides.length; i++) {
-            console.log(i)
-            console.log('off')
+            // console.log(i)
+            // console.log('off')
             slides[i].style.display = "none";
         }
         slideIndex++;
         if (slideIndex > slides.length) { slideIndex = 1 }
         slides[slideIndex - 1].style.display = "block";
-        // for (i = 0; i < dots.length; i++) {
-        //     dots[i].className = dots[i].className.replace(" active", "");
-        // }
-        // slides[slideIndex - 1].style.display = "block";
-        // slides[slideIndex-1].setAttribute("style","display:block");
-        // dots[slideIndex - 1].className += " active";
-        setTimeout(showSlides, 5000); // Change image every 2 seconds
     }
+
+    // show all again if not playing
+    function showAll() {
+        let i;
+        let slides = document.getElementsByClassName("slide");
+
+        for (i = 0; i < slides.length; i++) {
+            slides[i].style.display = "block";
+        }
+    }
+
+//  make full screen mode
+    function openFullscreen() {
+        var elem = document.getElementById('slideshow');
+        console.log('fullscreen');
+            if (elem.requestFullscreen) {
+                elem.requestFullscreen();
+            } else if (elem.mozRequestFullScreen) { /* Firefox */
+                elem.mozRequestFullScreen();
+            } else if (elem.webkitRequestFullscreen) { /* Chrome, Safari and Opera */
+                elem.webkitRequestFullscreen();
+            } else if (elem.msRequestFullscreen) { /* IE/Edge */
+                elem.msRequestFullscreen();
+            }
+        showSlides()
+        slideInterval = setInterval(showSlides, slideTime);
+    }
+
+
+    function closeFullscreen() {
+            if (document.exitFullscreen) {
+                document.exitFullscreen();
+            } else if (document.mozCancelFullScreen) { /* Firefox */
+                document.mozCancelFullScreen();
+            } else if (document.webkitExitFullscreen) { /* Chrome, Safari and Opera */
+                document.webkitExitFullscreen();
+            } else if (document.msExitFullscreen) { /* IE/Edge */
+                document.msExitFullscreen();
+            }
+
+        clearInterval(slideInterval);
+        showAll();
+        }
+
+    // play without fullscreen
+    function playSlideShow() {
+        
+            showSlides()
+            slideInterval = setInterval(showSlides, slideTime);
+        }
+
+    function pauseSlideShow() {
+        
+            clearInterval(slideInterval);
+            showAll();
+        }
 </script>
 
   </body>
