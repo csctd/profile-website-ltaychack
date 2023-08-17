@@ -1,22 +1,59 @@
 :class-card: slide
 
-![alt text](https://i.natgeofe.com/n/76197d9a-5c93-41c2-b95e-66d06ffa5928/laos-travel.jpg)
+![alt text](<unnamed (2).jpg>)
 :class-card: slide
 
 :class-card: slide
 
-![alt text](https://lh3.googleusercontent.com/i5Td6FMlubVFq5nBST9zOS0apQS0Preeyh4MJUGRWPcA-BFW5tG9IiMRSubIsm8)
+![alt text](<image_6487327 (1).JPG>)
+:class-card: slide
 
 :class-card: slide
 
-![alt text](https://lh3.googleusercontent.com i5Td6FMlubVFq5nBST9zOS0apQS0Preeyh4MJUGRWPcA-BFW5tG9IiMRSubIsm8)
+![Alt text](<image_6487327 (2).JPG>)
+:class-card: slide
 
 :class-card: slide
 
-![alt text](https://www.iri.org/wp-content/uploads/2021/11/cyril-1-Copy.jpg?w=800)
+![Alt text](<image_6487327 (3).JPG>)
+:class-card: slide
 
 :class-card: slide
 
-![alt text](https://www.jica.go.jp/english/overseas/laos/__icsFiles/afieldfile/2023/04/13/Laosc.jpg)
+![Alt text](<image_6487327 (4).JPG>)
+:class-card: slide
 
+:class-card: slide
 
+![Alt text](<image_6487327 (5).JPG>)
+:class-card: slide
+
+:class-card: slide
+
+![Alt text](<image_6487327 (6).JPG>)
+:class-card: slide
+
+:class-card: slide
+
+![Alt text](<image_6487327 (7).JPG>)
+:class-card: slide
+
+:class-card: slide
+
+![Alt text](<image_6487327 (8).JPG>)
+:class-card: slide
+
+:class-card: slide
+
+![Alt text](<image_6487327 (9).JPG>)
+:class-card: slide
+
+:class-card: slide
+
+![Alt text](<image_6487327 (10).JPG>)
+:class-card: slide
+
+:class-card: slide
+
+![Alt text](<image_6487327 (11).JPG>)
+:class-card: slide
