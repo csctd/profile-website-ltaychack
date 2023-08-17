@@ -1,84 +1,84 @@
 :class-card: slide
 
-![alt text](<unnamed (2).jpg>)
+![Alt text](picture1.jpg)
 :class-card: slide
 
 :class-card: slide
 
-![alt text](<image_6487327 (1).JPG>)
+![Alt text](picture2.JPG)
 :class-card: slide
 
 :class-card: slide
 
-![Alt text](<image_6487327 (2).JPG>)
+![Alt text](picture3.JPG)
 :class-card: slide
 
 :class-card: slide
 
-![Alt text](<image_6487327 (3).JPG>)
+![Alt text](picture4.JPG)
 :class-card: slide
 
 :class-card: slide
 
-![Alt text](<image_6487327 (4).JPG>)
+![Alt text](picture5.JPG)
 :class-card: slide
 
 :class-card: slide
 
-![Alt text](<image_6487327 (5).JPG>)
+![Alt text](picture6.JPG)
 :class-card: slide
 
 :class-card: slide
 
-![Alt text](<image_6487327 (6).JPG>)
+![Alt text](picture7.JPG)
 :class-card: slide
 
 :class-card: slide
 
-![Alt text](<image_6487327 (7).JPG>)
+![Alt text](picture8.JPG)
 :class-card: slide
 
 :class-card: slide
 
-![Alt text](<image_6487327 (8).JPG>)
+![Alt text](picture9.JPG)
 :class-card: slide
 
 :class-card: slide
 
-![Alt text](<image_6487327 (9).JPG>)
+![Alt text](picture10.JPG)
 :class-card: slide
 
 :class-card: slide
 
-![Alt text](<image_6487327 (10).JPG>)
+![Alt text](picture11.JPG)
 :class-card: slide
 
 :class-card: slide
 
-![Alt text](<image_6487327 (11).JPG>)
+![Alt text](picture12.JPG)
 :class-card: slide
 
 :class-card: slide
 
-![Alt text](<image_6487327 (12).JPG>)
+![Alt text](picture13.JPG)
 :class-card: slide
 
 :class-card: slide
 
-![Alt text](<image_6487327 (13).JPG>)
+![Alt text](picture14.JPG)
 :class-card: slide
 
 :class-card: slide
 
-![Alt text](<image_6487327 (14).JPG>)
+![Alt text](picture15.JPG)
 :class-card: slide
 
 :class-card: slide
 
-![Alt text](<image_6487327 (15).JPG>)
+![Alt text](picture16.JPG)
 :class-card: slide
 
 :class-card: slide
 
-![Alt text](<image_6487327 (16).JPG>)
+![Alt text](picture17.JPG)
 :class-card: slide
