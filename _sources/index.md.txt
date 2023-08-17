@@ -1,6 +1,6 @@
 # Introduction
 
-I am a current first year student at URI pursuing a BS in mathematics. I am considering a double major in physics. 
+I am a current first year student at URI pursuing a BS in mathematics. I am considering a double major in physics.
 
 
 
