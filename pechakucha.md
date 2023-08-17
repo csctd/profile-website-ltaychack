@@ -2,7 +2,8 @@
 
 <div id="slideshow>
 
-```{nclude} _static/buttons.html
+```{include} _static/buttons.html
+```
 
 ```{card}
 :class-card: slide
