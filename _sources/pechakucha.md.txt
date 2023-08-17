@@ -1,28 +1,123 @@
-# PechaKucha
+# TD 
 
-```{include} _static/play_pause.html
-```
+<div id="slideshow>
 
-```{card} 
+```{card}
 :class-card: slide
 
-![alt text](https://i.natgeofe.com/n/76197d9a-5c93-41c2-b95e-66d06ffa5928/laos-travel.jpg)
+![Alt text](picture1.jpg)
 ```
 
-```{card} 
+```{card}
 :class-card: slide
 
-![alt text](https://lh3.googleusercontent.com/i5Td6FMlubVFq5nBST9zOS0apQS0Preeyh4MJUGRWPcA-BFW5tG9IiMRSubIsm8)
+![Alt text](picture2.JPG)
 ```
 
-```{card} 
+```{card}
 :class-card: slide
 
-![alt text](https://www.iri.org/wp-content/uploads/2021/11/cyril-1-Copy.jpg?w=800)
+![Alt text](picture3.JPG)
 ```
 
-```{card} 
+```{card}
 :class-card: slide
 
-![alt text](picture3.JPG)
+![Alt text](picture4.JPG)
+```
+
+```{card}
+:class-card: slide
+
+![Alt text](picture5.JPG)
+```
+
+```{card}
+:class-card: slide
+
+![Alt text](picture6.JPG)
+```
+
+```{card}
+:class-card: slide
+
+![Alt text](picture7.JPG)
+```
+
+```{card}
+:class-card: slide
+
+![Alt text](picture8.JPG)
+```
+
+```{card}
+:class-card: slide
+
+![Alt text](picture9.JPG)
+```
+
+```{card}
+:class-card: slide
+
+![Alt text](picture10.JPG)
+```
+
+```{card}
+:class-card: slide
+
+![Alt text](picture11.JPG)
+```
+
+```{card}
+:class-card: slide
+
+![Alt text](picture12.JPG)
+```
+
+```{card}
+:class-card: slide
+
+![Alt text](picture13.JPG)
+```
+
+```{card}
+:class-card: slide
+
+![Alt text](picture14.JPG)
+```
+
+```{card}
+:class-card: slide
+
+![Alt text](picture15.JPG)
+```
+
+```{card}
+:class-card: slide
+
+![Alt text](picture16.JPG)
+```
+
+```{card}
+:class-card: slide
+
+![Alt text](picture17.JPG)
+```
+
+```{card}
+:class-card: slide
+
+![Alt text](picture19.jpg)
+```
+
+```{card}
+:class-card: slide
+
+![Alt text](picture20.jpg)
+```
+
+```{card}
+:class-card: slide
+
+![Alt text](pictur18.jpg)
 ```

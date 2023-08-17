@@ -1,7 +1,6 @@
-# Portfolio
+# Introduction
 
-I'm a current first-year mathematics major at URI, graduating in 2027. 
-
+I am a current first year student at URI pursuing a BS in mathematics. I am considering a double major in physics. 
 
 
 
@@ -12,5 +11,7 @@ I'm a current first-year mathematics major at URI, graduating in 2027.
 :maxdepth: 2
 :hidden:
 
+
 pechakucha
 ```
+
