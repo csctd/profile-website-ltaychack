@@ -2,6 +2,8 @@
 
 <div id="slideshow>
 
+```{nclude} _static/buttons.html
+
 ```{card}
 :class-card: slide
 
@@ -121,3 +123,4 @@
 
 ![Alt text](pictur18.jpg)
 ```
+</div>
