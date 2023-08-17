@@ -26,3 +26,9 @@
 
 ![alt text](https://www.iri.org/wp-content/uploads/2021/11/cyril-1-Copy.jpg?w=800)
 ```
+
+```{card} 
+:class-card: slide
+
+![alt text](picture3.JPG)
+```
